@@ -1,2 +1,4 @@
-
-export function testingFunction() { return 0 }
+export * from "./checkFunction";
+export * from "./types";
+export * from "./singleSyncFunction";
+export * from "./multiSyncFunction";
